@@ -4,6 +4,7 @@
   
   body {
     margin: 0;
-    background-color: #efefef;
+    background: url("https://img.freepik.com/free-photo/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration_35913-2338.jpg?w=996&t=st=1675955376~exp=1675955976~hmac=7858f9248b43c013929b852ce3e2feaa1609864698d9e20af13fd191c88d690a"), no-repeat;
+    background-size: cover;
     font-family: "Fredoka", sans-serif;
   }
